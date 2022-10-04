@@ -315,6 +315,11 @@ a {
   border: none;
 }
 
+.productos__ws img {
+  width: 30px;
+  border-radius: 0px;
+}
+
 /* .productos__card {
   width: 17%;
   margin-top: 10px;
